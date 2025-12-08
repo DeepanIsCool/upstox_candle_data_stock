@@ -1,0 +1,4 @@
+upstox-python-sdk
+pandas
+openpyxl
+tqdm
