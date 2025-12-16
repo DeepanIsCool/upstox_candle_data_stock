@@ -147,5 +147,5 @@ cython_debug/
 Thumbs.db
 
 # Project specific
-*.csv
+# *.csv
 !Stock.csv
